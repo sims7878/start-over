@@ -1,0 +1,25 @@
+body{
+    background-color: #e43f2c;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    border: 0;
+}
+
+.text{
+    padding: 5%;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 425%;
+    /* padding-left: 5%;
+    padding-top: 5%; */
+    margin: 0;
+}
+
+h5{
+    /* padding-left: 5%; */
+    padding-top: 5%;
+    margin: 0;
+
+}
